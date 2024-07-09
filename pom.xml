@@ -3,4 +3,11 @@
   <groupId>com.itm</groupId>
   <artifactId>PrimaryData</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+  	<dependency>
+  		<groupId>ITM</groupId>
+  		<artifactId>TestMavenProject</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
+  </dependencies>
 </project>
